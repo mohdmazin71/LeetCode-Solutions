@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0306-additive-number](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0306-additive-number) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

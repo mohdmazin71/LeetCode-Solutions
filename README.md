@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0306-additive-number](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0306-additive-number) |
 ## Two Pointers

@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1140-stone-game-ii](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1563-stone-game-v) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

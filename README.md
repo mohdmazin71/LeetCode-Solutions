@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1140-stone-game-ii](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0306-additive-number](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0306-additive-number) |
+| [1927-sum-game](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |

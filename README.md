@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1140-stone-game-ii](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1306-jump-game-iii](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1563-stone-game-v](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [1306-jump-game-iii](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [3310-remove-methods-from-project](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [1306-jump-game-iii](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [3310-remove-methods-from-project](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |

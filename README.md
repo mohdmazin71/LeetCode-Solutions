@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0835-image-overlap](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1306-jump-game-iii](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1563-stone-game-v](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1563-stone-game-v) |
@@ -274,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0835-image-overlap](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Nim Game
@@ -297,4 +301,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

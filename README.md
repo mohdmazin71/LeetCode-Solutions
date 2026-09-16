@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Graph Theory
 |  |

@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/mohdmazin71/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Divide and Conquer
 |  |
 | ------- |
